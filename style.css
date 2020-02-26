@@ -1,0 +1,37 @@
+
+body {
+  background: aquamarine;
+}
+p {
+  color: blue;
+    font-family: fantasy;
+}
+h1
+{ 
+  font-weight: bold;
+  color: navy;
+    font-family: cursive;
+  }
+h6
+{
+    color: darkslateblue;
+}
+img{
+    width:285px;
+    height:300px;
+}
+
+.screenshot{
+    border-style: dotted;
+}
+
+h3
+{
+    color:dodgerblue;
+    font-family:sans-serif;
+}
+li
+{
+    color:mediumpurple;
+    font-family: monospace;
+}
